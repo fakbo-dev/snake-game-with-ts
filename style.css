@@ -84,3 +84,14 @@
     flex-direction: column;
 }
 
+.snake {
+    background: #94FFD8;
+    border: 1px solid #003C43;
+    border-radius: 0.3rem;
+}
+
+.food {
+    background: #BB2525;
+    border: 1px solid #FE0000;
+    border-radius: 0.6rem;
+}
