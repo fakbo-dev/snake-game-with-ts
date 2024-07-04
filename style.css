@@ -28,12 +28,20 @@
     text-align: center;
 }
 
+.accent {
+    color: #06D001;
+}
+
 /* score */
 .score-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 2;
 
+}
+.score {
+    font-size: 2rem;
 }
 
 /* board */
